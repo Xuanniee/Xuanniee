@@ -30,7 +30,7 @@ You can contact me on these platforms:
 
 * Email - xuanyi1603@gmail.com
 * Instagram - @michelinman_xuanyi
-* LinkedIn - linkedin.com/in/ng-xuan-yi-301037200/
+* LinkedIn
 * Telegram - @Xuannieee
 
 <!---
