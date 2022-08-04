@@ -29,8 +29,8 @@ I'm looking to collaborate in making projects related to:
 You can contact me on these platforms:
 
 * Email - xuanyi1603@gmail.com
-* Instagram - instagram.com/michelinman_xuanyi
-* LinkedIn - 
+* Instagram - @michelinman_xuanyi
+* LinkedIn - linkedin.com/in/ng-xuan-yi-301037200/
 * Telegram - @Xuannieee
 
 <!---
