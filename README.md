@@ -1,8 +1,9 @@
 # Hey There!!
-I'm Xuan Yi, a Computer Science Student based in Singapore.
+I'm Xuan Yi, a Computer Science student based in Singapore.
 
 # My Projects
 
+* [Bus Express (Android: Compose + Kotlin)](https://github.com/Xuanniee/Bus-Express), an android application that retrieves bus timings.
 * [Finance (Flask)](https://github.com/Xuanniee/Finance), a stocks web application that allows people to try out paper trading.
 * [Network (Django)](https://github.com/Xuanniee/Network-Django), a clone of Twitter, that allows users to make posts and follow other users.
 * [Commerce (Django)](https://github.com/Xuanniee/Commerce-Django), an e-commerce auction site that allows people to buy and sell items.
@@ -11,7 +12,7 @@ And see more in my Github Repositories!!!
 
 # In the Process of Learning
 
-* Android Development
+* iOS Development
 * Data Structures & Algorithms
 * React Framework
 
@@ -30,7 +31,6 @@ You can contact me on these platforms:
 
 * Email - xuanyi1603@gmail.com
 * Instagram - @michelinman_xuanyi
-* LinkedIn
 * Telegram - @Xuannieee
 
 <!---
