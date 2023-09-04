@@ -12,9 +12,8 @@ And see more in my Github Repositories!!!
 
 # In the Process of Learning
 
-* iOS Development
 * Data Structures & Algorithms
-* React Framework
+* MERN Stack
 
 # Interests
 I'm looking to collaborate in making projects related to:
